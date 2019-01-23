@@ -6,10 +6,10 @@ elsif speed < 40
 true
 else
 	false
-end
+ end
 end
 
-unsafe?(35)
+
 
 
 def not_safe?(speed)
@@ -17,4 +17,4 @@ def not_safe?(speed)
 end
 
 
-not_safe?(100)
+
